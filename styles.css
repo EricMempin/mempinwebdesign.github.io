@@ -1,0 +1,9 @@
+.order-image {
+  width: 100px;
+}
+
+@media only screen and (max-width: 600px) {
+  .order-image {
+    width: 150px;
+  }
+}
